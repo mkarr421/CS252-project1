@@ -7,3 +7,4 @@
 void proclaim (const std::string& st);
 
 #endif
+// a comment in the main branch
