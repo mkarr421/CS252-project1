@@ -31,3 +31,5 @@
 *.app
 progA
 progB
+/.cproject
+/.project
